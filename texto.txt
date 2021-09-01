@@ -1,0 +1,36 @@
+<!-- ---------------Blocos Grid (interior do carrousel) Segundo-->
+            <div class="carousel-item">
+              <div class="container">
+                <div class="row">
+                  <div class="col">
+
+                  </div>
+                  <div class="col">
+                    <img class="carousel-blocos"src="img/direita.jpg" alt="Primeira imagem" />               
+                    <h3 class="col-h3">EXTENDED RED BAND TRAILER</h3>
+                    <P class="col-p">The Last of Us is an ultimate genre experience that blends action and action elements to tell a characters story about a modern plague decimating humanity.</P>
+                  </div>
+                  <div class="col">
+
+                  </div>
+                </div>
+              </div>
+            </div>
+            <!-- ---------------Blocos Grid (interior do carrousel) Terceiro-->
+            <div class="carousel-item">
+              <div class="container">
+                <div class="row">
+                  <div class="col">
+
+                  </div>
+                  <div class="col">
+
+                  </div>
+                  <div class="col">
+                    <img class="carousel-blocos"src="img/direita.jpg" alt="Primeira imagem" />               
+                    <h3 class="col-h3">EXTENDED RED BAND TRAILER</h3>
+                    <P class="col-p">The Last of Us is an ultimate genre experience that blends action and action elements to tell a characters story about a modern plague decimating humanity.</P>
+                  </div>
+                </div>
+              </div>
+            </div>
